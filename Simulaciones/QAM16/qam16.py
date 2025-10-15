@@ -103,7 +103,7 @@ class qam16(gr.top_block, Qt.QWidget):
         self.qtgui_time_sink_x_0_0.enable_autoscale(False)
         self.qtgui_time_sink_x_0_0.enable_grid(False)
         self.qtgui_time_sink_x_0_0.enable_axis_labels(True)
-        self.qtgui_time_sink_x_0_0.enable_control_panel(False)
+        self.qtgui_time_sink_x_0_0.enable_control_panel(True)
         self.qtgui_time_sink_x_0_0.enable_stem_plot(False)
 
 
