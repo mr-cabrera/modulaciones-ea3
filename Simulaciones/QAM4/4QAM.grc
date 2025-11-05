@@ -481,7 +481,7 @@ blocks:
     marker7: '-1'
     marker8: '-1'
     marker9: '-1'
-    name: '""'
+    name: '"Salida"'
     nconnections: '1'
     size: '128'
     srate: samp_rate
@@ -578,7 +578,7 @@ blocks:
     marker7: '-1'
     marker8: '-1'
     marker9: '-1'
-    name: '""'
+    name: '"Entrada"'
     nconnections: '1'
     size: '128'
     srate: samp_rate
